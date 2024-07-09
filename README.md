@@ -1,8 +1,8 @@
 ### Olá! Eu sou Valdson Silva
 
-- 🔭 Hoje estou focando no front-end
+<!--- 🔭 Hoje estou focando no front-end
 - 🌱 Estudando React
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele/dele-->
 
 <!--<div style="display: inline_block"><br>
   <img align="center" alt="Val-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,10 +16,10 @@
 
 <div> -->
 
-# <div align="center">Hi, I'm Sandro 🙋‍♂️</div>
-#### <div align="center">  💻 Backend developer</div>
+# <div align="center">Hi, I'm Valdson 🙋‍♂️</div>
+#### <div align="center">  💻 Front-end developer</div>
 
-I hold a bachelor's degree in Computer Science from Unisinos and currently work as a backend developer with .NET Core at CWI Software. This repository contains academic projects and personal studies.
+I'm degree in System Analising and Developing from Institute Federal from Piaui and currently work as a freelance front-end developer with React.js. This repository contains academic projects and personal studies.
 
 # <div>Skills </div>
 <br>
