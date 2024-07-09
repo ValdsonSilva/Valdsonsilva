@@ -34,10 +34,10 @@ I'm graduating in Systems Analysis and Development from the Federal Institute of
 </div>
 <div align="center"> 
   <div>
-    <a href="https://www.linkedin.com/in/ferr1ss/"/>
+    <a href="https://www.linkedin.com/in/valdson-mac%C3%AAdo-35981426b/"/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </div>
-  <img  src="https://komarev.com/ghpvc/?username=your-github-sferriss&color=green">
+  <img  src="https://komarev.com/ghpvc/?username=your-github-valdsonsilva&color=green">
 </div>
 
 
