@@ -30,7 +30,7 @@ I'm graduating in Systems Analysis and Development from the Federal Institute of
 <hr>
 <div style="display: inline_block" align="center"><br>
 <img height="140"  src="https://github-readme-stats.vercel.app/api?username=ValdsonSilva&show_icons=true&theme=ocean_dark&hide=stars,issues">
-<img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdsonSilva&layout=compact&theme=ocean_dark">  
+<img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ValdsonSilva&layout=compact&theme=ocean_dark">  
 </div>
 <div align="center"> 
   <div>
