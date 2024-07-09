@@ -24,7 +24,7 @@ I'm degree in System Analising and Developing from Institute Federal from Piaui 
 # <div>Skills </div>
 <br>
 <div style="display: inline_block">,
-    <img align="center" alt="tecnologias" src="https://skillicons.dev/icons?i=react,next,javascript,typescript,html,css,vite,muimaterial,tailwind">
+    <img align="center" alt="tecnologias" src="https://skillicons.dev/icons?i=react,next,javascript,typescript,html,css,vite,materialui,tailwind,python,django">
 </div>
 </p>
 <hr>
