@@ -17,7 +17,7 @@
 <div> -->
 
 # <div align="center">Hi, I'm Valdson 🙋‍♂️</div>
-#### <div align="center">  💻 Front-end developer</div>
+#### <div align="center">  💻 Full Stack developer</div>
 
 I'm graduating in Systems Analysis and Development from the Federal Institute of Piauí and currently working as a freelance front-end developer with React.js. This repository contains academic projects and personal studies.
 
