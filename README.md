@@ -24,7 +24,7 @@ I'm graduating in Systems Analysis and Development from the Federal Institute of
 # <div>Skills </div>
 <br>
 <div style="display: inline_block">
-    <img align="center" alt="tecnologias" src="https://skillicons.dev/icons?i=react,next,javascript,typescript,nodejs,html,css,vite,materialui,tailwind,python,django">
+    <img align="center" alt="tecnologias" src="https://skillicons.dev/icons?i=react,next,javascript,typescript,nodejs,express,html,css,vite,materialui,tailwind,python,django">
 </div>
 </p>
 <hr>
