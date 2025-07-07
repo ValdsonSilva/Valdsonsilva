@@ -19,7 +19,7 @@
 # <div align="center">Hi, I'm Valdson 🙋‍♂️</div>
 #### <div align="center">  💻 Full Stack developer</div>
 
-I'm graduated in Systems Analysis and Development from the Federal Institute of Piauí and currently working as a freelance full-stack developer. This repository contains academic projects and personal studies.
+I'm graduated in Systems Analysis and Development from the Federal Institute of Piauí and currently working as full-stack developer. This repository contains academic projects and personal studies.
 
 # <div>Skills </div>
 <br>
